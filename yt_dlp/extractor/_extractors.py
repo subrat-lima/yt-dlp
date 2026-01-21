@@ -318,6 +318,10 @@ from .cbc import (
     CBCPlayerIE,
     CBCPlayerPlaylistIE,
 )
+from .cbn import (
+    CBNIE,
+    CBNFamilyIE,
+)
 from .cbs import (
     CBSIE,
     ParamountPressExpressIE,
